@@ -4,7 +4,12 @@
 <a href="https://github.com/Vishrut-Arora">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vishrut-Arora&layout=compact&theme=radical" />
 </a>
-<br>
-![](https://komarev.com/ghpvc/?username=Vishrut-Arora)
-<br>
-![](https://komarev.com/ghpvc/?username=Vishrut-Arora&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Vishrut-Arora?label=Follow&style=social)](https://github.com/Vishrut-Arora/?tab=follow)
+
+
+![Vishrut's github stats](https://github-readme-stats.vercel.app/api?username=Vishrut-Arora&show_icons=true&hide_border=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishrut-Arora&layout=compact&hide_border=true)
+
+
+![Vishrut-Arora](https://komarev.com/ghpvc/?username=Vishrut-Arora)
