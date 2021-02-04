@@ -5,5 +5,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vishrut-Arora&layout=compact&theme=radical" />
 </a>
 <br>
+![](https://komarev.com/ghpvc/?username=Vishrut-Arora)
 <br>
 ![](https://komarev.com/ghpvc/?username=Vishrut-Arora&label=PROFILE+VIEWS)
