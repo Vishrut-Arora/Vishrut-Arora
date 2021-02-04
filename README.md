@@ -8,4 +8,4 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vishrut-Arora&layout=compact&theme=radical" />
 </a>
 <br>
-[![Vishrut's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vishrut-Arora)](https://github.com/anuraghazra/github-readme-stats)
+[![Vishrut's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vishrut-Arora)](https://github.com/Vishrut-Arora/github-readme-stats)
