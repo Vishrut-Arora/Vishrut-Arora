@@ -42,9 +42,10 @@
 <img src="https://img.shields.io/badge/Qemu%20-%23000000.svg?&style=for-the-badge&logo=qemu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Processing.org%20-%23039BE5.svg?&style=for-the-badge&logo=processing"/>
 <img src="https://img.shields.io/badge/Overleaf%20-%23009639.svg?&style=for-the-badge&logo=overleaf&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Zotero%23326192.svg?&style=for-the-badge&logo=zotero&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Mitmproxy%2307405e.svg?&style=for-the-badge&logo=mitmproxy&logoColor=white"/>
-<img src ="https://img.shields.io/badge/DialogFlow%2307405e.svg?&style=for-the-badge&logo=dialogflow&logoColor=white"/>  
-<img src ="https://img.shields.io/badge/IBM watson%2307405e.svg?&style=for-the-badge&logo=watson&logoColor=white"/>  
-<img src ="https://img.shields.io/badge/Latex%2307405e.svg?&style=for-the-badge&logo=latex&logoColor=white"/>    
+
+<img src="https://img.shields.io/badge/Zotero%20-%23FF9900.svg?&style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mitm%20-%23430098.svg?&style=for-the-badge&logo=mitmproxy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Watson%20-%23000000.svg?&style=for-the-badge&logo=ibm-watson&logoColor=white"/>
+<img src="https://img.shields.io/badge/DialogFlow%20-%23039BE5.svg?&style=for-the-badge&logo=dialogflow"/>
+
 </div>
