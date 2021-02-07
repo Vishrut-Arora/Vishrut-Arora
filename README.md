@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/C%20-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java%20-%2300599C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img src ="https://img.shields.io/badge/Python%2307405e.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaFx%20-%2300599C.svg?&style=for-the-badge&logo=javafx&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/Latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
