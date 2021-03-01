@@ -16,7 +16,7 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2407&theme=radical&layout=compact" /> -->
 
 
-[![Vishrut's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vishrut_Arora&theme=radical)](https://github.com/Vishrut-Arora/github-readme-stats)
+<!-- [![Vishrut's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vishrut_Arora&theme=radical)](https://github.com/Vishrut-Arora/github-readme-stats)-->
 
 <div style="display:flex; align-items:center; justify-content: center;">
 <img src="https://img.shields.io/badge/Arduino%20-%23007ACC.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
