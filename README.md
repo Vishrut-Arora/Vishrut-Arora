@@ -6,7 +6,6 @@
 
 
 ![Vishrut's github stats](https://github-readme-stats.vercel.app/api?username=Vishrut-Arora&show_icons=true&hide_border=true)
-[![Vishrut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishrut-Arora)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishrut-Arora&layout=compact&hide_border=true)
 
