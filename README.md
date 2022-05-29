@@ -7,7 +7,6 @@
 
 ![Vishrut's github stats](https://github-readme-stats.vercel.app/api?username=Vishrut-Arora&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishrut-Arora&layout=compact&hide_border=true)
 
 
 ![Vishrut-Arora](https://komarev.com/ghpvc/?username=Vishrut-Arora)
