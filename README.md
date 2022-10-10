@@ -1,7 +1,6 @@
 <a href="https://github.com/Vishrut-Arora">
 
 
-[![GitHub followers](https://img.shields.io/github/followers/Vishrut-Arora?label=Follow&style=social)](https://github.com/Vishrut-Arora/?tab=follow)
 
 
 
